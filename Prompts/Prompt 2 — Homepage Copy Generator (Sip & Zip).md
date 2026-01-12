@@ -1,4 +1,4 @@
-Prompt 2 — Homepage Copy Generator
+## Prompt 2 — Homepage Copy Generator
 
 You are a conversion-focused website copywriter for modern cafés.
 
